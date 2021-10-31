@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="350"
+   height="200"
+   viewBox="0 0 350 200.00001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="bubble.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     units="px"
+     objecttolerance="10000"
+     inkscape:snap-path-clip="true"
+     guidetolerance="10000"
+     inkscape:snap-perpendicular="true"
+     inkscape:zoom="2.1997092"
+     inkscape:cx="202.75407"
+     inkscape:cy="156.61161"
+     inkscape:window-width="1760"
+     inkscape:window-height="1215"
+     inkscape:window-x="4128"
+     inkscape:window-y="110"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid928" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#aa8800;stroke:#000000;stroke-width:0"
+       id="rect846"
+       width="350.38559"
+       height="170"
+       x="5.5511151e-17"
+       y="4.2500001e-06"
+       ry="19.999996" />
+    <rect
+       style="opacity:1;fill:#aa8800;stroke:#000000;stroke-width:0"
+       id="rect1051"
+       width="42.426407"
+       height="40.000004"
+       x="219.20311"
+       y="-21.213169"
+       transform="rotate(44.999991)"
+       ry="0" />
+  </g>
+</svg>
